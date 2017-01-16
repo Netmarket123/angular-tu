@@ -1,0 +1,28 @@
+{
+  "index": {
+    "hero": "home",
+    "title": "One framework.",
+    "subtitle": "Mobile and desktop."
+  },
+
+  "features": {
+    "title": "Features & Benefits",
+    "subtitle": "Powerful Features for Developing Apps"
+  },
+
+  "contribute": {
+    "title": "Contribute to Angular",
+    "subtitle": "Help us build the framework of the future!",
+    "autoformat": "true"
+  },
+
+  "news": {
+    "title": "News",
+    "subtitle": "Check out what we are up to"
+  },
+
+  "support": {
+    "title": "Support",
+    "subtitle": "Get help from the Angular Community"
+  }
+}

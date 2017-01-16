@@ -1,0 +1,35 @@
+{
+  "index": {
+    "icon": "home",
+    "title": "Angular Docs",
+    "menuTitle": "Docs Home",
+    "banner": "Angular 2 is currently in Beta."
+  },
+
+  "quickstart": {
+    "icon": "query-builder",
+    "title": "5 Min Quickstart"
+  },
+
+  "guide": {
+    "icon": "list",
+    "title": "Developers Guide",
+    "banner": "Angular 2 is currently in Beta."
+  },
+
+  "api": {
+    "icon": "book",
+    "title": "API Proposal"
+  },
+
+  "resources": {
+    "icon": "play-circle-fill",
+    "title": "Angular Resources",
+    "banner": "Angular 2 is currently in Beta."
+  },
+
+  "help": {
+    "icon": "chat",
+    "title": "Help & Support"
+  }
+}
